@@ -10,3 +10,4 @@ ___
 1. Open Terminal to a folder, not root directory, and npm install the node
 2. Make sure that the packages were created
 3. Create a .gitignore to place the node_modules so that GitHub does not have a large amount of items commited at once
+4. Make sure to run node index.js to ensure that the module was imported correctely
